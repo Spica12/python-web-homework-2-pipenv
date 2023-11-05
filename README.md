@@ -8,7 +8,7 @@ https://packaging.python.org/en/latest/tutorials/installing-packages
 
 
 Package installation instructions:
-1) Install the Assistant using the terminal command line - use the command: "pip install git+https://github.com/Spica12/python-web-homework-2.git"
+1) Install the Assistant using the terminal command line - use the command: "pip install git+https://github.com/Spica12/python-web-homework-2-pipenv.git"
 2) Once the package is installed, to run the Assistant, type the following command in the terminal: "command"
 
 
